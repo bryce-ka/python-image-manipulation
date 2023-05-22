@@ -28,7 +28,7 @@ The `pencil_sketch()` function converts an image to appear as if it were drawn w
 To use any of the functions, uncomment the function call at the end of the script and run the script.
 
 ## Images
-The images used in the script can be found in the `images` directory of this repository.
+The images used in the script can be found in this repository.
 
 Note: Make sure to place the images you want to use in the same directory as the script or provide the correct path when prompted.
 
